@@ -5,15 +5,16 @@
 # get unauthorisized people image on gmail + alert 
 # 
 
-REQUIREMENTS
- RASPBERRY PI /n
- 2 channel RELAY /n
- SOLENOID LOCK
- BUZZER/DOOR BELL
- BATTERY / POWER SUPPLY
- CAMERA
- TOUCH SENSOR
- LEDS
+REQUIREMENTS :  
+
+ RASPBERRY PI  /
+ 2 channel RELAY  /
+ SOLENOID LOCK  /
+ BUZZER/DOOR BELL /
+ BATTERY / POWER SUPPLY  /
+ CAMERA  /
+ TOUCH SENSOR  /
+ LEDS  
  
 
 
